@@ -1,0 +1,26 @@
+01.	linear search
+02.	binary search
+03.	bubble sort
+04.	insertion sort
+05.	selection sort
+06.	quick sort
+07.	marge sort
+08.	heap sort
+09.	single linked list
+10.	double linked list
+11.	circular linked list
+12.	stack using array
+13.	stack using linked list
+14.	queue using array
+15.	queue using linked list
+16.	circular queue using array
+17.	circular queue using linked list
+18.	deque using array
+19.	binary search tree
+20.	AVL tree
+21.	infix to postfix
+22.	postfix evaluation
+23.	matrix multiplication
+24.	transpose of a matrix
+25.	tower of Hanoi
+
